@@ -4,4 +4,6 @@ Hello! We plan on giving you an introduction to computer engineering in a way th
 
 Again, please bring a computer with ModelSim installed!!!!!!
 
-This is the repo for the 2026 Public Computer Engineering seminar at the Austin Public Library. Here you will see all of our sources and reaserch, the schedual and times, as well as any other information required for attending or else.
+This is the repo for the 2026 Public Computer Engineering seminar at the Austin Public Library. Here you will see all of our sources and reaserch, the schedule and times, as well as any other information required for attending or else.
+
+Planned topics - Hardware / software abstraction, Files / FileSystems, Coding Languages, Compilers, ISAs, Basic Computer Architecture, Cpu, Types of Memory, Out of order cpus, Gpus, Execution Units, VLSI, and FPGAs.
